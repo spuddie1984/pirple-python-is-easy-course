@@ -46,7 +46,7 @@ def drawBoard2(rows,columns):
     return True
 
 # uncomment function call below, to test the drawBoard2 function
-# drawBoard2(int(input("How many rows for your board game?\n")),int(input("how many columns as well?\n")))
+drawBoard2(int(input("How many rows for your board game?\n")),int(input("how many columns as well?\n")))
 
 """
 Extra Credit:
